@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-✅ Step-by-Step Guide
+✅ Step-by-Step Guide:
 Open Terminal
 You're already there at:
 kaushalkumar@kaushals-MacBook-Air ~ %
